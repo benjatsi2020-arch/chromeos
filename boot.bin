@@ -1,0 +1,8 @@
+{{winnoroot}}
+cmd c:/win
+{{linux}}
+cmd c:/linux
+{{nowin}}
+cmd root: c:/linux
+{{<binlinux>}}
+<boot.bin>
